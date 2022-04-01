@@ -15,3 +15,7 @@ Wire the LCD screen up like [this](https://www.circuitschools.com/interfacing-16
 
 ## Example
 ![image1](/docs/20220121_211039.jpg)
+![image2](/docs/20220213_170215.jpg)
+
+## Social Media
+Find a Reddit post for this project here.
