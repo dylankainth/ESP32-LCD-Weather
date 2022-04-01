@@ -18,4 +18,4 @@ Wire the LCD screen up like [this](https://www.circuitschools.com/interfacing-16
 ![image2](/docs/20220213_170215.jpg)
 
 ## Social Media
-Find a Reddit post for this project here.
+Find a Reddit post for this project [here](https://www.reddit.com/r/electronics/comments/tt9dw8/esp32_connected_to_a_16x2_lcd_display/).
